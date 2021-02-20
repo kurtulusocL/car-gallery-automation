@@ -1,0 +1,84 @@
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.GalleryForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.RegisterForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryFrom.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryFrom.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.GalleryForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleriOtomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.KayitForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe.config
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\OtoGaleriOtomasyon.pdb
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Form1.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CarTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryFrom.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CategoryTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.ContractForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerAdd.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.CustomerTool.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.GalleryForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Forms.KayitForm.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Migrations.init.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.exe
+C:\Users\kurtulusocL\Documents\Visual Studio 2017\Project\MyC#App\#Otomasyonlar\OtoGaleri Otomasyon\OtoGaleriOtomasyon\obj\Debug\OtoGaleriOtomasyon.pdb
